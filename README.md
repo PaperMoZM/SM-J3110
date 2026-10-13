@@ -30,6 +30,11 @@ The MIT License in this repository applies only to original content created by m
 Use these files at your own risk. I am not responsible for bricked devices, data loss, or any other damage caused by using the files or instructions provided in this repository.
 
 
+## Samsung changelog archive
+
+- [SM-J3110 CHC offline update history (English, Korean, Simplified Chinese)](Samsung-Changelog/CHC/)
+
+
 # Galaxy J3 Pro (SM-J3110)
 
 这里收集了 Samsung Galaxy J3 Pro（SM-J3110）相关的固件、镜像、第三方 ROM 以及其他资源。
@@ -58,3 +63,8 @@ Use these files at your own risk. I am not responsible for bricked devices, data
 除非另有说明，本仓库中的 MIT License 仅适用于由本人原创的内容。
 
 使用本仓库中的任何文件均由使用者自行承担风险。对于因使用本仓库提供的文件或说明而造成的设备变砖、数据丢失或其他任何损失，本人概不负责。
+
+
+## 三星更新日志归档
+
+- [SM-J3110 CHC 官方更新记录（支持中、英、韩离线切换）](Samsung-Changelog/CHC/)
