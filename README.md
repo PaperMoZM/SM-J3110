@@ -1,4 +1,4 @@
-[English](#samsung-galaxy-j3-pro-sm-j3110) | [简体中文](#简体中文)
+[English](#samsung-galaxy-j3-pro-sm-j3110) | [简体中文](#galaxy-j3-pro-sm-j3110)
 
 # Samsung Galaxy J3 Pro (SM-J3110)
 
@@ -30,7 +30,7 @@ The MIT License in this repository applies only to original content created by m
 Use these files at your own risk. I am not responsible for bricked devices, data loss, or any other damage caused by using the files or instructions provided in this repository.
 
 
-# 简体中文
+# Galaxy J3 Pro (SM-J3110)
 
 这里收集了 Samsung Galaxy J3 Pro（SM-J3110）相关的固件、镜像、第三方 ROM 以及其他资源。
 
